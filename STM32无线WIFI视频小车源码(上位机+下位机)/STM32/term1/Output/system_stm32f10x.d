@@ -1,0 +1,17 @@
+..\Output\system_stm32f10x.o: ..\CMSIS\system_stm32f10x.c
+..\Output\system_stm32f10x.o: ..\CMSIS\stm32f10x.h
+..\Output\system_stm32f10x.o: ..\CMSIS\core_cm3.h
+..\Output\system_stm32f10x.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdint.h
+..\Output\system_stm32f10x.o: ..\CMSIS\system_stm32f10x.h
+..\Output\system_stm32f10x.o: ..\user\stm32f10x_conf.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_bkp.h
+..\Output\system_stm32f10x.o: ..\CMSIS\stm32f10x.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_fsmc.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\system_stm32f10x.o: ..\FWlib\inc\misc.h

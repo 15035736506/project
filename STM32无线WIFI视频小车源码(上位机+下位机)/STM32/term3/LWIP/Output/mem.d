@@ -1,0 +1,16 @@
+..\Output\mem.o: ..\lwip-1.4.1\src\core\mem.c
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\mem.o: ..\lwip-1.4.1\lwipopts.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\Output\mem.o: ..\lwip-1.4.1\arch/cc.h
+..\Output\mem.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/def.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/mem.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/sys.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/stats.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/memp.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/memp_std.h
+..\Output\mem.o: ..\lwip-1.4.1\src\include\lwip/err.h
+..\Output\mem.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h

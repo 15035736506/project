@@ -1,0 +1,9 @@
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Widget\EDIT_CreateIndirect.c
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Widget\EDIT.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\WM\WM.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\edit_createindirect.o: ..\ucGUI3.90\GUI\Widget\DIALOG_Intern.h

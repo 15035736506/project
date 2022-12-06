@@ -1,0 +1,17 @@
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jdmarker.c
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdmarker.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdmarker.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdmarker.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdmarker.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdmarker.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdmarker.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

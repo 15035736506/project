@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>yaokongqi/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>284</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32597-18911</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>yaokongqi</ExpandedNode><ExpandedNode>yaokongqi/user</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5916-27803</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>2651</SelStart><SelEnd>2651</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NRF24L01.c</Filename><XPos>0</XPos><YPos>124</YPos><SelStart>3614</SelStart><SelEnd>3614</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NRF24L01.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2116</SelStart><SelEnd>2116</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main_receive.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1489</SelStart><SelEnd>1489</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SPI.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>157</SelStart><SelEnd>157</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SPI.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>101</SelStart><SelEnd>101</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\moniNRF24L01.c</Filename><XPos>1</XPos><YPos>199</YPos><SelStart>8404</SelStart><SelEnd>8404</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\moniNRF24L01.h</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>679</SelStart><SelEnd>679</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>G:\program address\IAR430\430\inc\msp430f149.h</Filename><XPos>0</XPos><YPos>1148</YPos><SelStart>2373</SelStart><SelEnd>2373</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main1.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>1995</SelStart><SelEnd>1995</SelEnd></Tab><ActiveTab>9</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0280c8f0><key>iaridepm.enu1</key></Toolbar-0280c8f0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>547</Bottom><Right>358</Right><x>-2</x><y>-2</y><xscreen>294</xscreen><yscreen>233</yscreen><sizeHorzCX>215227</sizeHorzCX><sizeHorzCY>320937</sizeHorzCY><sizeVertCX>263543</sizeVertCX><sizeVertCY>756198</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>134</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>136</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>187328</sizeHorzCY><sizeVertCX>215227</sizeVertCX><sizeVertCY>320937</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

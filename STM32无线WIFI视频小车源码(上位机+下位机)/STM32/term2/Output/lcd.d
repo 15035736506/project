@@ -1,0 +1,17 @@
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\LCD.c
+..\Output\lcd.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUI_Private.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\lcd.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\LCD_Private.h
+..\Output\lcd.o: ..\ucGUI3.90\GUI\Core\LCD_ConfDefaults.h
+..\Output\lcd.o: ..\ucGUI3.90\Config\LCDConf.h

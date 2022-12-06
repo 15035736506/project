@@ -1,0 +1,15 @@
+..\Output\stats.o: ..\lwip-1.4.1\src\core\stats.c
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\stats.o: ..\lwip-1.4.1\lwipopts.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\Output\stats.o: ..\lwip-1.4.1\arch/cc.h
+..\Output\stats.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/def.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/stats.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/mem.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/memp.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/memp_std.h
+..\Output\stats.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\stats.o: ..\lwip-1.4.1\src\include\lwip/memp_std.h

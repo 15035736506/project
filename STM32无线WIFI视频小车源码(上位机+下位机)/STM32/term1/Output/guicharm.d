@@ -1,0 +1,17 @@
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUICharM.c
+..\Output\guicharm.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUI_Private.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guicharm.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\LCD_Private.h
+..\Output\guicharm.o: ..\ucGUI3.90\GUI\Core\LCD_ConfDefaults.h
+..\Output\guicharm.o: ..\ucGUI3.90\Config\LCDConf.h

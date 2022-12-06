@@ -1,0 +1,13 @@
+..\Output\sccb.o: ..\BSP\SCCB.c
+..\Output\sccb.o: ..\BSP\SCCB.h
+..\Output\sccb.o: ..\CMSIS\stm32f10x.h
+..\Output\sccb.o: ..\CMSIS\core_cm3.h
+..\Output\sccb.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdint.h
+..\Output\sccb.o: ..\CMSIS\system_stm32f10x.h
+..\Output\sccb.o: ..\user\stm32f10x_conf.h
+..\Output\sccb.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\sccb.o: ..\CMSIS\stm32f10x.h
+..\Output\sccb.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\sccb.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\sccb.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\sccb.o: ..\FWlib\inc\misc.h

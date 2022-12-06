@@ -1,0 +1,9 @@
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Widget\RADIO_Create.c
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Widget\RADIO.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\WM\WM.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\radio_create.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\radio_create.o: ..\ucGUI3.90\GUI\Widget\DIALOG_Intern.h

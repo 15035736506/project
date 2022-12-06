@@ -1,0 +1,13 @@
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUITimer.c
+..\Output\guitimer.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guitimer.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guitimer.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h

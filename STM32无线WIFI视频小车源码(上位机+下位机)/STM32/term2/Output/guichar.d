@@ -1,0 +1,14 @@
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUIChar.c
+..\Output\guichar.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\guichar.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guichar.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guichar.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h

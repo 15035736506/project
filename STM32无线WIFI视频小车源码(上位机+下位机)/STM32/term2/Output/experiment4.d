@@ -1,0 +1,9 @@
+..\Output\experiment4.o: experiment4.c
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\experiment4.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\WM\WM.h
+..\Output\experiment4.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h

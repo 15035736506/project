@@ -1,0 +1,9 @@
+..\Output\netdb.o: ..\lwip-1.4.1\src\api\netdb.c
+..\Output\netdb.o: ..\lwip-1.4.1\src\include\lwip/netdb.h
+..\Output\netdb.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\netdb.o: ..\lwip-1.4.1\lwipopts.h
+..\Output\netdb.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\Output\netdb.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\Output\netdb.o: ..\lwip-1.4.1\arch/cc.h
+..\Output\netdb.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\netdb.o: ..\lwip-1.4.1\src\include\lwip/opt.h

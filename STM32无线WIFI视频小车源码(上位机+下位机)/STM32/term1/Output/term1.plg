@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+G:\experiment\my car\STM32\term1\user\term1.uvproj
+Project File Date:  04/10/2014
+
+<h2>Output:</h2>
+Load "..\\Output\\term1.AXF" 
+_____^
+*** error 56: cant open file
+Load "..\\Output\\term1.AXF" 
+_____^
+*** error 56: cant open file
+Build target 'Target 1'
+compiling os_tmr.c...
+..\uCOS-II\Source\os_tmr.c(882): error:  #20: identifier "OS_TASK_TMR_PRIO" is undefined
+..\uCOS-II\Source\os_tmr.c:                             OS_TASK_TMR_PRIO,
+..\uCOS-II\Source\os_tmr.c:                             ^
+..\uCOS-II\Source\os_tmr.c: ..\uCOS-II\Source\os_tmr.c: 0 warnings, 1 error
+Target not created

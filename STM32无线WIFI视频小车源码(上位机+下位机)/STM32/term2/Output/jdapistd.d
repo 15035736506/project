@@ -1,0 +1,17 @@
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jdapistd.c
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdapistd.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdapistd.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdapistd.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdapistd.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdapistd.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdapistd.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

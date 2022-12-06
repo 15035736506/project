@@ -1,0 +1,17 @@
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jdcolor.c
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdcolor.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdcolor.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdcolor.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdcolor.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdcolor.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdcolor.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

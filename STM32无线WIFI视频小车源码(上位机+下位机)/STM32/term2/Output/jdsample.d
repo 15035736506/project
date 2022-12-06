@@ -1,0 +1,17 @@
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jdsample.c
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdsample.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdsample.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdsample.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdsample.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdsample.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdsample.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

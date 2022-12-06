@@ -1,0 +1,12 @@
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\LCD_GetEx.c
+..\Output\lcd_getex.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\LCD_Private.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\LCD_ConfDefaults.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\Config\LCDConf.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\lcd_getex.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h

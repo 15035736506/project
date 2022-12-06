@@ -1,0 +1,13 @@
+..\Output\spi.o: ..\enc28j60\SPI.C
+..\Output\spi.o: ..\enc28j60\SPI.h
+..\Output\spi.o: ..\CMSIS\stm32f10x.h
+..\Output\spi.o: ..\CMSIS\core_cm3.h
+..\Output\spi.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdint.h
+..\Output\spi.o: ..\CMSIS\system_stm32f10x.h
+..\Output\spi.o: ..\user\stm32f10x_conf.h
+..\Output\spi.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\spi.o: ..\CMSIS\stm32f10x.h
+..\Output\spi.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\spi.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\spi.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\spi.o: ..\FWlib\inc\misc.h

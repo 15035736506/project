@@ -1,0 +1,14 @@
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUIRealloc.c
+..\Output\guirealloc.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\guirealloc.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guirealloc.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guirealloc.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h

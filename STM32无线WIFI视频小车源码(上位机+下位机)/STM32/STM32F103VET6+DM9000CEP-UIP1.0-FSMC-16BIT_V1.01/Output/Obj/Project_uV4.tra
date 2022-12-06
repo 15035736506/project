@@ -1,0 +1,67 @@
+*** Creating Trace Output File '.\Output\Obj\Project_uV4.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\obj\main.o"'
+### List of Objects: adding '".\output\obj\misc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_can.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_cec.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_crc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_i2c.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_sdio.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_wwdg.o"'
+### List of Objects: adding '".\output\obj\core_cm3.o"'
+### List of Objects: adding '".\output\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\output\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\output\obj\psock.o"'
+### List of Objects: adding '".\output\obj\timer.o"'
+### List of Objects: adding '".\output\obj\uip.o"'
+### List of Objects: adding '".\output\obj\uip_arp.o"'
+### List of Objects: adding '".\output\obj\uip-fw.o"'
+### List of Objects: adding '".\output\obj\uiplib.o"'
+### List of Objects: adding '".\output\obj\uip-neighbor.o"'
+### List of Objects: adding '".\output\obj\uip-split.o"'
+### List of Objects: adding '".\output\obj\clock-arch.o"'
+### List of Objects: adding '".\output\obj\systick.o"'
+### List of Objects: adding '".\output\obj\tapdev.o"'
+### List of Objects: adding '".\output\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\output\obj\server.o"'
+### List of Objects: adding '".\output\obj\tcp_demo.o"'
+### List of Objects: adding '".\output\obj\udp_demo.o"'
+### List of Objects: adding '".\output\obj\dm9000x.o"'
+### List of Objects: adding '".\output\obj\http-strings.o"'
+### List of Objects: adding '".\output\obj\httpd.o"'
+### List of Objects: adding '".\output\obj\httpd-cgi.o"'
+### List of Objects: adding '".\output\obj\httpd-fs.o"'
+### List of Objects: adding '".\output\obj\dhcpc.o"'
+### List of Objects: adding '".\output\obj\memb.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\output\obj\main.o" ".\output\obj\misc.o" ".\output\obj\stm32f10x_adc.o" ".\output\obj\stm32f10x_bkp.o" ".\output\obj\stm32f10x_can.o" ".\output\obj\stm32f10x_cec.o" ".\output\obj\stm32f10x_crc.o" ".\output\obj\stm32f10x_dac.o" ".\output\obj\stm32f10x_dbgmcu.o" ".\output\obj\stm32f10x_dma.o" ".\output\obj\stm32f10x_exti.o" ".\output\obj\stm32f10x_flash.o" ".\output\obj\stm32f10x_fsmc.o" ".\output\obj\stm32f10x_gpio.o" ".\output\obj\stm32f10x_i2c.o" ".\output\obj\stm32f10x_iwdg.o" ".\output\obj\stm32f10x_pwr.o" ".\output\obj\stm32f10x_rcc.o" ".\output\obj\stm32f10x_rtc.o" ".\output\obj\stm32f10x_sdio.o" ".\output\obj\stm32f10x_spi.o" ".\output\obj\stm32f10x_tim.o" ".\output\obj\stm32f10x_usart.o" ".\output\obj\stm32f10x_wwdg.o" ".\output\obj\core_cm3.o" ".\output\obj\system_stm32f10x.o" ".\output\obj\startup_stm32f10x_md.o" ".\output\obj\psock.o" ".\output\obj\timer.o" ".\output\obj\uip.o" ".\output\obj\uip_arp.o" ".\output\obj\uip-fw.o" ".\output\obj\uiplib.o" ".\output\obj\uip-neighbor.o" ".\output\obj\uip-split.o" ".\output\obj\clock-arch.o" ".\output\obj\systick.o" ".\output\obj\tapdev.o" ".\output\obj\stm32f10x_it.o" ".\output\obj\server.o" ".\output\obj\tcp_demo.o" ".\output\obj\udp_demo.o" ".\output\obj\dm9000x.o" ".\output\obj\http-strings.o" ".\output\obj\httpd.o" ".\output\obj\httpd-cgi.o" ".\output\obj\httpd-fs.o" ".\output\obj\dhcpc.o" ".\output\obj\memb.o" --library_type=microlib --strict --scatter ".\Output\Obj\Project_uV4.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Output\List\Project_uV4.map" -o ".\Output\Obj\Project_uV4.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Output\Obj\Project_uV4.axf'
+### ADS-LD Command File: '.\Output\Obj\Project_uV4.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Output\Obj\Project_uV4.lnp', Handle=0x00000458
+### Writing '.lnp' file
+### ADS-LD Command file '.\Output\Obj\Project_uV4.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

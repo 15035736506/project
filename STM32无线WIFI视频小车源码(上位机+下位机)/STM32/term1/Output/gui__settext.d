@@ -1,0 +1,14 @@
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUI__SetText.c
+..\Output\gui__settext.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\gui__settext.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\gui__settext.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\gui__settext.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h

@@ -1,0 +1,13 @@
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUIVal.c
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guival.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guival.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\guival.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h

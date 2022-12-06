@@ -1,0 +1,10 @@
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUIPolyE.c
+..\Output\guipolye.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\math.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guipolye.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guipolye.o: ..\ucGUI3.90\GUI\Core\GUI_X.h

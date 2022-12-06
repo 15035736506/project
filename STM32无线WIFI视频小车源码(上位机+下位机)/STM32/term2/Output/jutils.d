@@ -1,0 +1,17 @@
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jutils.c
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jutils.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jutils.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jutils.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jutils.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jutils.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jutils.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

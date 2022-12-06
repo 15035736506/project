@@ -1,0 +1,15 @@
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\AntiAlias\GUIAACircle.c
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUI_Protected.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\LCD_Protected.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUIDebug.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\Core\GUI_X.h
+..\Output\guiaacircle.o: ..\ucGUI3.90\GUI\WM\WM_GUI.h
+..\Output\guiaacircle.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\guiaacircle.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\guiaacircle.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\math.h

@@ -1,0 +1,9 @@
+..\Output\def.o: ..\lwip-1.4.1\src\core\def.c
+..\Output\def.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\def.o: ..\lwip-1.4.1\lwipopts.h
+..\Output\def.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\Output\def.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\Output\def.o: ..\lwip-1.4.1\arch/cc.h
+..\Output\def.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\def.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\Output\def.o: ..\lwip-1.4.1\src\include\lwip/def.h

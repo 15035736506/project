@@ -1,0 +1,17 @@
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jdpostct.c
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdpostct.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdpostct.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdpostct.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdpostct.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdpostct.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdpostct.o: ..\ucGUI3.90\GUI\JPEG\jerror.h

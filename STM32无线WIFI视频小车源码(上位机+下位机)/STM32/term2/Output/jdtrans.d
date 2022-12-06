@@ -1,0 +1,17 @@
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jdtrans.c
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jinclude.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jconfig.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\Core\GUI.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\Core\GUI_ConfDefaults.h
+..\Output\jdtrans.o: ..\ucGUI3.90\Config\GUIConf.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\Core\GUIType.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\Core\LCD.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\Core\GUIVersion.h
+..\Output\jdtrans.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stddef.h
+..\Output\jdtrans.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdlib.h
+..\Output\jdtrans.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\stdio.h
+..\Output\jdtrans.o: E:\Application\STM32\install\MDK\ARM\RV31\INC\string.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jpeglib.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jmorecfg.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jpegint.h
+..\Output\jdtrans.o: ..\ucGUI3.90\GUI\JPEG\jerror.h
